@@ -24,7 +24,7 @@ The dataset used in this project is sourced from Kaggle. It includes detailed in
 ## Project Management
 >  In order to build this I will follow the CRISP-DM approach of project management.
 
->  The reasons for doing so are as follows:
+Reason to work following CRISP-DM:
 
 - This project has a clear objective, where I will build forecast models to understand demand and derive causal inferences to develop business understanding.
 - The project is an end-to-end pipline with documentation so that it allows easy traceability and reproduciability in future.
@@ -72,6 +72,9 @@ Below are some key visualizations used during the analysis:
 ## Conclusion
 This project demonstrates the use of machine learning for energy forecasting and provides actionable insights into energy consumption patterns. Further improvements can be made by incorporating additional features such as appliance usage or advanced models.
 
+## References (I thank all the folks whose work has been the base on which my work stands!)
+1. [Rob Mulla for his dataset and tutorials](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=COMED_hourly.csv)
+2. [Victor Hugo Pereira for is amazing notebook](https://github.com/panambY)
 ---
 
 
