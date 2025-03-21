@@ -1,5 +1,5 @@
 # Energy Consumption Forecasting and Causal machine learning Project
-![electric poles](images/images3)
+![electric poles](images/images3.jpg)
 
 
 
