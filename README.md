@@ -72,7 +72,7 @@ Below are some key visualizations used during the analysis:
 ## Conclusion
 This project demonstrates the use of machine learning for energy forecasting and provides actionable insights into energy consumption patterns. Further improvements can be made by incorporating additional features such as appliance usage or advanced models.
 
-## References (I thank all the folks whose work has been the base on which my work stands!)
+## References
 1. [Rob Mulla for his dataset and tutorials](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=COMED_hourly.csv)
 2. [Victor Hugo Pereira for is amazing notebook](https://github.com/panambY)
 ---
