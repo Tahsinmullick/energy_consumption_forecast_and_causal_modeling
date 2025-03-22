@@ -74,7 +74,7 @@ This project demonstrates the use of machine learning for energy forecasting and
 
 ## References
 1. [Rob Mulla for his dataset and tutorials](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=COMED_hourly.csv)
-2. [Victor Hugo Pereira for is amazing notebook](https://github.com/panambY)
+2. [Victor Hugo Pereira for his amazing notebook](https://github.com/panambY)
 ---
 
 
