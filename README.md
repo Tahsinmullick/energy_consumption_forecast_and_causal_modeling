@@ -1,7 +1,7 @@
 # 🗼⚡ **Energy Consumption Forecasting and Causal machine learning Project**
 ![electric poles](images/image3.jpg)
 
-![comed](images/comed.png)
+
 
 ## Overview
 The following project explores forecasting energy consumptions through machine learning approaches. The dataset is collected from Kaggle and contains information on several United States based power companies and their energy consumption across a number of years.
@@ -10,7 +10,8 @@ This set of companies fall under the PJM
 The main goal of this project is to answer important business decision:
 - Adopt the CRISP-DM Project Management approach.
 - Analyze historical energy consumption data.
-- Analyze ComED data the power company that services northern Illinois, including the Chicago metropolitan area.
+- Analyze **ComED** data the power company that services northern Illinois, including the Chicago metropolitan area.
+![comed](images/comed.png)
 - Apply machine learning techniques to forecast energy usage trends.
 - Apply Causal machine learning to learn of causations between exisiting features and response variables.
 - Identify key patterns and insights in energy consumption across various power companies
