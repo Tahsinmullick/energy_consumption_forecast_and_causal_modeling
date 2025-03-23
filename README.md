@@ -13,7 +13,8 @@ The main goal of this project is to answer important business decision:
 - Analyze ComED data the power company that services northern Illinois, including the Chicago metropolitan area.
 - Apply machine learning techniques to forecast energy usage trends.
 - Apply Causal machine learning to learn of causations between exisiting features and response variables.
-- Identify key patterns and insights in energy consumption across various power companies 
+- Identify key patterns and insights in energy consumption across various power companies
+![comed](images/comed.png)
 
 ## Dataset
 The dataset used in this project is sourced from Kaggle. It includes detailed information on:
