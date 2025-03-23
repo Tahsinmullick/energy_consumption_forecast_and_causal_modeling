@@ -1,6 +1,6 @@
 # 🗼⚡ **Energy Consumption Forecasting and Causal machine learning Project**
 ![electric poles](images/image3.jpg)
-![electric mindmap](images/Reasons_for_Hourly_Energy_Consumption_Variations.png)
+![electric mindmap](images/mindmap3.jpg)
 
 
 ## Overview
