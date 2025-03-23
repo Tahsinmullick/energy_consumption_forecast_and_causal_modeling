@@ -1,7 +1,7 @@
 # 🗼⚡ **Energy Consumption Forecasting and Causal machine learning Project**
 ![electric poles](images/image3.jpg)
 
-
+![comed](images/comed.png)
 
 ## Overview
 The following project explores forecasting energy consumptions through machine learning approaches. The dataset is collected from Kaggle and contains information on several United States based power companies and their energy consumption across a number of years.
@@ -14,7 +14,7 @@ The main goal of this project is to answer important business decision:
 - Apply machine learning techniques to forecast energy usage trends.
 - Apply Causal machine learning to learn of causations between exisiting features and response variables.
 - Identify key patterns and insights in energy consumption across various power companies
-![comed](images/comed.png)
+
 
 ## Dataset
 The dataset used in this project is sourced from Kaggle. It includes detailed information on:
